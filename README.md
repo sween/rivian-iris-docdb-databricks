@@ -117,8 +117,8 @@ Plotted w/ PySpark + Geopandas
 
 ![Rivian Geo Plot Michigan](assets/deezwatts-geo.png)
 
-Documentation and Errata over @ [Deez Watts - A Rivian Data Adventure](https://www.deezwatts.com)
-Backs assets for a Community Post @ [InterSystems Community](https://community.intersystems.com/post/rivian-geolocation-plotting-iris-cloud-document-and-databricks)
+Documentation and Errata over @ [Deez Watts - A Rivian Data Adventure](https://www.deezwatts.com)  
+Backs assets for a Community Post @ [InterSystems Community](https://community.intersystems.com/post/rivian-geolocation-plotting-iris-cloud-document-and-databricks)  
  
 ## Author
 Ron Sweeney [sween](https://www.github.com/sween)

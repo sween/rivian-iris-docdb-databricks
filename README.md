@@ -45,7 +45,7 @@ Stored in a Document Database
 [RivianDocDb.java](databricks_rivian_irisdocdb/RivianDocDb.java)
 
 
-PySpark + Geopandas
+Plotted w/ PySpark + Geopandas
 
 
 <details>
